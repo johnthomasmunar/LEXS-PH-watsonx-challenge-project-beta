@@ -1,0 +1,114 @@
+{
+  "title": "Web Development Fundamentals",
+  "code": "WD101",
+  "duration": "400 mins",
+  "deliveryMode": "Online Course",
+  "owner": "john.doe@ibm.com",
+  "description": "This course introduces learners to the fundamentals of modern web development. Students will learn how websites are designed, built, and deployed using HTML, CSS, and JavaScript. The course also covers responsive web design, version control with Git, basic UI/UX principles, and website deployment. By the end of the course, students will be able to build responsive and interactive websites while following industry best practices.",
+  "modules": [
+    {
+      "id": "module-1",
+      "number": 1,
+      "title": "Introduction to Web Development",
+      "duration": "90 mins",
+      "sections": [
+        {
+          "heading": "Introduction",
+          "body": "Every website you visit is the result of multiple technologies working together. From online shopping and banking to education and entertainment, web development powers the digital experiences we use every day. In this module, you'll explore the foundations of web development, understand how websites are delivered to users, and become familiar with the tools you'll use throughout the course.",
+          "image": "https://www.ibm.com/design/language/static/06cd4f2490d6f139bef25711fc23d81e/e968a/pov-1.jpg",
+          "layout": "text-left image-right",
+          "component": null,
+          "items": []
+        },
+        {
+          "heading": "Learning Objectives",
+          "body": "After completing this module, you will be able to: Explain how the World Wide Web works. Describe the roles of front-end and back-end development. Identify the core technologies used in web development. Install and configure the required development tools. Create and view a basic HTML web page.",
+          "image": "https://www.ibm.com/design/language/static/06cd4f2490d6f139bef25711fc23d81e/e968a/pov-1.jpg",
+          "layout": "image-left text-right",
+          "component": null,
+          "items": []
+        },
+        {
+          "heading": "Types of Web Development",
+          "body": "Front-end development focuses on everything users can see and interact with in their web browser.",
+          "image": false,
+          "layout": "text-accordion",
+          "component": "Accordion",
+          "items": [
+            "Common technologies include:",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Responsibilities include:",
+            "Designing page layouts",
+            "Creating navigation menus",
+            "Styling web pages",
+            "Adding interactive elements",
+            "Ensuring responsive design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "module-2",
+      "number": 2,
+      "title": "HTML5 Fundamentals",
+      "duration": "120 mins",
+      "sections": [
+        {
+          "heading": "Introduction",
+          "body": "HTML (HyperText Markup Language) is the standard markup language used to create the structure and content of web pages. It defines how text, images, videos, forms, and other elements are displayed in a web browser. In this module, you'll learn the building blocks of HTML5, create well-structured web pages using semantic elements, and develop forms and hyperlinks that improve usability and accessibility.",
+          "image": "https://www.ibm.com/design/language/static/06cd4f2490d6f139bef25711fc23d81e/e968a/pov-1.jpg",
+          "layout": "text-left image-right",
+          "component": null,
+          "items": []
+        },
+        {
+          "heading": "Learning Objectives",
+          "body": "After completing this module, you will be able to: Explain the purpose of HTML5. Create a valid HTML document structure. Use semantic HTML elements. Add images, hyperlinks, lists, and tables. Build user input forms. Apply accessibility best practices.",
+          "image": "https://www.ibm.com/design/language/static/06cd4f2490d6f139bef25711fc23d81e/e968a/pov-1.jpg",
+          "layout": "image-left text-right",
+          "component": null,
+          "items": []
+        },
+        {
+          "heading": "HTML Document Structure",
+          "body": "A well-formed HTML document follows a standard structure consisting of the document type declaration, head section, and body section. Understanding this structure ensures browsers can correctly interpret and render your web pages.",
+          "image": false,
+          "layout": "text-tabs",
+          "component": "Tabs",
+          "items": [
+            "Tab 1 – DOCTYPE",
+            "Purpose of the <!DOCTYPE html> declaration",
+            "HTML5 document standard",
+            "Tab 2 – Head Section",
+            "Page title",
+            "Meta tags",
+            "External CSS",
+            "JavaScript references",
+            "Body Section",
+            "Visible page content",
+            "Headings",
+            "Paragraphs",
+            "Images",
+            "Navigation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "module-3",
+      "number": 3,
+      "title": "CSS3 Fundamentals",
+      "duration": "30 mins",
+      "sections": []
+    },
+    {
+      "id": "module-4",
+      "number": 4,
+      "title": "Responsive Web Design",
+      "duration": "30 mins",
+      "sections": []
+    }
+  ]
+}
