@@ -53,7 +53,7 @@ export default function CourseCompleteScreen({ courseTitle, totalModules, timeSp
       </p>
 
       {/* Back to start */}
-      <button
+      {/* <button
         onClick={onReset}
         style={{
           background: "white",
@@ -68,7 +68,7 @@ export default function CourseCompleteScreen({ courseTitle, totalModules, timeSp
         }}
       >
         ← Back to Start
-      </button>
+      </button> */}
     </div>
   );
 }
